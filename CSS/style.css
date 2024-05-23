@@ -55,7 +55,11 @@ nav a:hover{
     border-bottom: 1px solid #000;
 }
 .clogo{
-    
+    color: #fff;
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
 }
 /* end of desktop navigation style */
 
